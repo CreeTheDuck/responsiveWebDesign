@@ -1,2 +1,1 @@
-# responsiveWebDesign
-https://www.freecodecamp.org/learn/responsive-web-design/
+# [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)

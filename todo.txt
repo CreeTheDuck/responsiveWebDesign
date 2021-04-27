@@ -1,8 +1,11 @@
 30min//Basic HTML and HTML5 | 433-503
-Basic CSS ~90min
+36min//Basic CSS ~90min | 342-409, 443-452
 Applied Visual Design ~120min
 Applied Accessibility ~60min
 Responsive Web Design Principles ~120min
 CSS Flexbox ~40min
-CSS Grid ~60min
+20min//CSS Grid ~60min | 320-340
 Responsive Web Design Projects ~600min
+
+
+IE doesnt support CSS variables
